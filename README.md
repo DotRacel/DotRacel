@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Compiler theory, Introduction to algorithms**
 
-- 📫 How to reach me **i@ultrapanda.me**
+- 📫 How to reach me: **i@ultrapanda.me**
 
 - ⚡ I'm currently hacking on **script language virtualization protection**
 
