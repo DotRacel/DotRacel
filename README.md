@@ -15,4 +15,4 @@ CS enthusiast, not A hacker
 ### GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DotRacel)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DotRacel)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DotRacel)](https://github.com/DotRacel
+[![trophy](https://github-profile-trophy.vercel.app/?username=DotRacel)](https://github.com/DotRacel)
