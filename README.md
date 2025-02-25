@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 ### Overview:
-CS enthusiast, not A hacker
+CS enthusiast, not a hacker
 
 ### Skills:
 - Programming in Java, C++, Lua, and potentially more
